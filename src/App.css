@@ -1,0 +1,100 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #0F111D;
+}
+
+.barra ul{
+  display: flex;
+  gap: 50rem;
+  padding: 1.5rem;
+  list-style-type: none;
+}
+
+
+button {
+  padding: 6px 11px;
+  background-color: #5766DA;
+  border: none;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+  border-radius: 2px;
+  padding: 12px 20px;
+  white-space: nowrap;
+}
+
+button:hover {
+  background-color: #929DF1;  
+}
+
+.elementos {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 6rem;
+  color: #fff;
+}
+
+.elementos h1 {
+  margin: 0px 0px 26px;
+  font-size: 46px;
+  color: #e5ecf4;
+}
+
+.elementos p {
+  margin: 0px 0px 32px;
+  font-size: 20px;
+  color: #808ab7;
+}
+
+.elementos button {
+  padding: 12px 43px;
+  font-size: 14px;
+}
+
+section{
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: 50px 50px;
+  justify-content: space-evenly;
+  gap: 5rem;
+}
+
+.topicoUm img {
+  padding: 16px;
+}
+
+.topicoUm h2 {
+  color: #e5ecf4;
+  margin: 0px 0px 8px;
+  font-size: 24px;
+}
+
+.topicoUm p {
+  font-size: 18px;
+  color: #808ab7;
+}
+
+.title h2 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 10rem;
+  color: #e5ecf4;
+  justify-content: center ;
+}
+
+.title p {
+  font-size: 20px;
+  color: #808ab7;
+  text-align: center;
+  margin: 32px;
+}

@@ -1,0 +1,24 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="80" height="80" rx="40" fill="url(#paint0_linear_3_45)"/>
+<g clip-path="url(#clip0_3_45)">
+<g clip-path="url(#clip1_3_45)">
+<path d="M33 32V36L37 40V54M28 44V48L31 51V54M52 44V48L49 51V54M47 32V36L43 40V54" stroke="#29FFFB" stroke-width="2" stroke-linecap="square"/>
+<path d="M33 32C34.6569 32 36 30.6569 36 29C36 27.3431 34.6569 26 33 26C31.3431 26 30 27.3431 30 29C30 30.6569 31.3431 32 33 32Z" stroke="#CDE0FF" stroke-width="2" stroke-linecap="square"/>
+<path d="M28 44C29.6569 44 31 42.6569 31 41C31 39.3431 29.6569 38 28 38C26.3431 38 25 39.3431 25 41C25 42.6569 26.3431 44 28 44Z" stroke="#CDE0FF" stroke-width="2" stroke-linecap="square"/>
+<path d="M52 44C53.6569 44 55 42.6569 55 41C55 39.3431 53.6569 38 52 38C50.3431 38 49 39.3431 49 41C49 42.6569 50.3431 44 52 44Z" stroke="#CDE0FF" stroke-width="2" stroke-linecap="square"/>
+<path d="M47 32C48.6569 32 50 30.6569 50 29C50 27.3431 48.6569 26 47 26C45.3431 26 44 27.3431 44 29C44 30.6569 45.3431 32 47 32Z" stroke="#CDE0FF" stroke-width="2" stroke-linecap="square"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_3_45" x1="8.42937e-07" y1="80" x2="80" y2="8.42937e-07" gradientUnits="userSpaceOnUse">
+<stop offset="0.2" stop-color="#004ECC"/>
+<stop offset="0.8" stop-color="#5766DA"/>
+</linearGradient>
+<clipPath id="clip0_3_45">
+<rect width="80" height="80" rx="2" fill="white"/>
+</clipPath>
+<clipPath id="clip1_3_45">
+<rect width="80" height="80" fill="white"/>
+</clipPath>
+</defs>
+</svg>
