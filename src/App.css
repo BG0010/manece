@@ -17,6 +17,14 @@ body {
   list-style-type: none;
 }
 
+.barra button {
+  margin-left: 500px;
+}
+
+.barra img {
+  margin-left: 200px;
+}
+
 
 button {
   padding: 6px 11px;
@@ -28,7 +36,7 @@ button {
   cursor: pointer;
   border-radius: 2px;
   padding: 12px 20px;
-  white-space: nowrap;
+
 }
 
 button:hover {
@@ -97,4 +105,25 @@ section{
   color: #808ab7;
   text-align: center;
   margin: 32px;
+}
+
+.explicacao h2 {
+  font-size: 40px;
+  color: #e5ecf4;
+  justify-content: center ;
+  text-align: left;
+  margin: 30px;
+}
+
+.explicacao p {
+  font-size: 20px;
+  color: #808ab7;
+  margin: 30px;
+ 
+
+}
+
+.explicacaoImagem  {
+  display: flex;
+  margin-bottom: 100rem;
 }

@@ -5,6 +5,7 @@ import Header from './components/Header'
 import Introducao from './components/Introducao'
 import Main from './components/Main'
 import Titulo from './components/Titulo'
+import Explicacao from './components/Explicacao'
 
 
 export default function App() {
@@ -14,6 +15,7 @@ export default function App() {
     <Introducao />
     <Main />
     <Titulo />
+    <Explicacao />
     </>
   )
 }
